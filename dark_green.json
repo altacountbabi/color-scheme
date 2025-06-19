@@ -49,7 +49,7 @@
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#0a0e0c",
-      "#11111b"
+      "#030505"
     ],
     "BACKGROUND_PRIMARY": [
       "#0d1311",
@@ -76,8 +76,8 @@
       "#0a0e0c"
     ],
     "BG_BASE_TERTIARY": [
-      "#11111b",
-      "#11111b"
+      "#030505",
+      "#030505"
     ],
     "EMBED_BACKGROUND": [
       "#313244",
@@ -92,7 +92,7 @@
       "#16201c"
     ],
     "CARD_SECONDARY_BG": [
-      "#11111b"
+      "#030505"
     ],
     "CHANNEL_ICON": [
       "#c2e5db",
@@ -115,8 +115,8 @@
       "#bac2de"
     ],
     "INPUT_BACKGROUND": [
-      "#11111b",
-      "#11111b"
+      "#030505",
+      "#030505"
     ],
     "INTERACTIVE_ACTIVE": [
       "#d1e5df",
@@ -223,9 +223,9 @@
     "PRIMARY_500": "#d1e5df",
     "PRIMARY_600": "#313244",
     "PRIMARY_630": "#313244",
-    "PRIMARY_660": "#11111b",
-    "PRIMARY_700": "#11111b",
-    "PRIMARY_730": "#11111b",
+    "PRIMARY_660": "#030505",
+    "PRIMARY_700": "#030505",
+    "PRIMARY_730": "#030505",
     "PRIMARY_800": "#0a0e0c",
     "PLUM_10": "#c2e5db",
     "PLUM_11": "#658e82",
@@ -233,12 +233,12 @@
     "PLUM_14": "#585b70",
     "PLUM_15": "#45475a",
     "PLUM_16": "#313244",
-    "PLUM_17": "#11111b",
+    "PLUM_17": "#030505",
     "PLUM_18": "#313244",
     "PLUM_19": "#313244",
     "PLUM_20": "#0a0e0c",
     "PLUM_21": "#0a0e0c",
-    "PLUM_22": "#11111b",
+    "PLUM_22": "#030505",
     "PLUM_3": "#d1e5df",
     "PLUM_4": "#4e8a76",
     "PLUM_6": "#d1e5df",
