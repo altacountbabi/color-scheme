@@ -99,8 +99,8 @@
       "#9399b2"
     ],
     "CHANNELS_DEFAULT": [
-      "#a6adc8",
-      "#a6adc8"
+      "#658e82",
+      "#658e82"
     ],
     "CHAT_BACKGROUND": [
       "#0d1311",
@@ -127,8 +127,8 @@
       "#9399b2"
     ],
     "INTERACTIVE_MUTED": [
-      "#a6adc8",
-      "#a6adc8"
+      "#658e82",
+      "#658e82"
     ],
     "INTERACTIVE_NORMAL": [
       "#9399b2",
@@ -228,8 +228,8 @@
     "PRIMARY_730": "#11111b",
     "PRIMARY_800": "#0a0e0c",
     "PLUM_10": "#9399b2",
-    "PLUM_11": "#a6adc8",
-    "PLUM_13": "#a6adc8",
+    "PLUM_11": "#658e82",
+    "PLUM_13": "#658e82",
     "PLUM_14": "#585b70",
     "PLUM_15": "#45475a",
     "PLUM_16": "#313244",
