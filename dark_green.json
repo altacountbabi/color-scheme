@@ -95,8 +95,8 @@
       "#11111b"
     ],
     "CHANNEL_ICON": [
-      "#9399b2",
-      "#9399b2"
+      "#c2e5db",
+      "#c2e5db"
     ],
     "CHANNELS_DEFAULT": [
       "#658e82",
@@ -123,16 +123,16 @@
       "#d1e5df"
     ],
     "INTERACTIVE_HOVER": [
-      "#9399b2",
-      "#9399b2"
+      "#c2e5db",
+      "#c2e5db"
     ],
     "INTERACTIVE_MUTED": [
       "#658e82",
       "#658e82"
     ],
     "INTERACTIVE_NORMAL": [
-      "#9399b2",
-      "#9399b2"
+      "#c2e5db",
+      "#c2e5db"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#313244",
@@ -219,7 +219,7 @@
     "PRIMARY_300": "#0d1311",
     "PRIMARY_360": "#4e8a76",
     "PRIMARY_400": "#585b70",
-    "PRIMARY_460": "#9399b2",
+    "PRIMARY_460": "#c2e5db",
     "PRIMARY_500": "#d1e5df",
     "PRIMARY_600": "#313244",
     "PRIMARY_630": "#313244",
@@ -227,7 +227,7 @@
     "PRIMARY_700": "#11111b",
     "PRIMARY_730": "#11111b",
     "PRIMARY_800": "#0a0e0c",
-    "PLUM_10": "#9399b2",
+    "PLUM_10": "#c2e5db",
     "PLUM_11": "#658e82",
     "PLUM_13": "#658e82",
     "PLUM_14": "#585b70",
@@ -358,26 +358,26 @@
       "StatusOffline": "#585b70",
       "StatusOnline": "#a6e3a1",
       "StatusStreaming": "#4e8a76",
-      "ShopIcon": "#9399b2",
-      "SettingsIcon": "#9399b2",
-      "StarOutlineIcon": "#9399b2",
+      "ShopIcon": "#c2e5db",
+      "SettingsIcon": "#c2e5db",
+      "StarOutlineIcon": "#c2e5db",
       "StarIcon": "#d8c957",
       "ReactionIcon": "#d1e5df",
-      "XSmallIcon": "#9399b2",
+      "XSmallIcon": "#c2e5db",
       "MoreHorizontalIcon": "#d1e5df",
       "back-icon": "#d1e5df",
       "UserCheckIcon": "#d1e5df",
       "MobilePhoneIcon": "#d1e5df",
-      "ic_crop": "#9399b2",
+      "ic_crop": "#c2e5db",
       "ic_arrow_back_24px": "#d1e5df",
       "ic_undo": "#d1e5df",
-      "ic_paint_brush": "#9399b2",
-      "ic_stamp": "#9399b2",
-      "ic_add_text": "#9399b2",
-      "ic_at": "#9399b2",
+      "ic_paint_brush": "#c2e5db",
+      "ic_stamp": "#c2e5db",
+      "ic_add_text": "#c2e5db",
+      "ic_at": "#c2e5db",
       "ic_download_24px": "#d1e5df",
       "ic_overflow_android": "#d1e5df",
-      "ic_nitro_rep_24px": "#9399b2"
+      "ic_nitro_rep_24px": "#c2e5db"
     }
   },
   "spec": 2
